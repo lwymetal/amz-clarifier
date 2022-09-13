@@ -1,0 +1,10 @@
+body {
+  background-color: #212529;
+  border-radius: 4px;
+  text-align: center;
+  width: 240px;
+}
+span {
+  color: #eee;
+  font-style: oblique;
+}
